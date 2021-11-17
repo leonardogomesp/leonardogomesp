@@ -3,7 +3,7 @@
 - 🔭 Atualmente sou bolsista pela PUCRS na Aceleradora Ágil 
 - 🌱 Cursando desenvolvimento web pelo SENAC
 - 📫 Você pode me mandar um email aqui: leonardogomespadilha@gmail.com
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/leonardogomesp">
@@ -23,4 +23,7 @@
 <div> 
   <a href = "mailto:leonardogomespadilha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardogomesp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ![Snake animation](https://github.com/leonardogomesp/leonardogomesp/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
