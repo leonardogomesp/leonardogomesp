@@ -4,7 +4,7 @@
 - 🌱 Cursando desenvolvimento web pelo SENAC
 - 📫 Você pode me mandar um email aqui: leonardogomespadilha@gmail.com
 - 😄 Pronomes: Ele/Dele
-- 📁 Aqui está meu <a href = "https://drive.google.com/file/d/1ph4ZAezhuxYFApfIG5Z56D2rG67Nk9wU/view?usp=sharing">curriculo</a>
+- 📁 Aqui está meu <a href = "https://drive.google.com/file/d/1bRFB0fI79885a2vI_5CqII0hN0XX8ZYF/view?usp=sharing">curriculo</a>
 
 <div align="center">
   <a href="https://github.com/leonardogomesp">
