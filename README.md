@@ -1,6 +1,6 @@
 ### Opa, beleza? Eu sou o Leonardo Gomes! 👋
 
-- 🔭 Atualmente sou bolsista pela PUCRS na Aceleradora Ágil 
+- 🔭 Atualmente sou estágiario fullstack na cooperativa Sicredi
 - 🌱 Cursando desenvolvimento web pelo SENAC
 - 📫 Você pode me mandar um email aqui: leonardogomespadilha@gmail.com
 - 😄 Pronomes: Ele/Dele
