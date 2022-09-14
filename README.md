@@ -1,7 +1,7 @@
 ### Opa, beleza? Eu sou o Leonardo Gomes! 👋
 
 - 🔭 Atualmente sou estágiario fullstack na cooperativa Sicredi
-- 🌱 Cursando desenvolvimento web pelo SENAC
+- 🌱 Cursando análise e desenvolvimento de sistemas na Estácio de Sá
 - 📫 Você pode me mandar um email aqui: leonardogomespadilha@gmail.com
 - 😄 Pronomes: Ele/Dele
 - 📁 Aqui está meu <a href = "https://drive.google.com/file/d/1bRFB0fI79885a2vI_5CqII0hN0XX8ZYF/view?usp=sharing">curriculo</a>
