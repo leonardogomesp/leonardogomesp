@@ -1,6 +1,6 @@
 ### Opa, beleza? Eu sou o Leonardo Gomes! 👋
 
-- 🔭 Atualmente sou estágiario fullstack na cooperativa Sicredi
+- 🔭 Atualmente sou estágiario fullstack na Clinia
 - 🌱 Cursando análise e desenvolvimento de sistemas na Estácio de Sá
 - 📫 Você pode me mandar um email aqui: leonardogomespadilha@gmail.com
 - 😄 Pronomes: Ele/Dele
