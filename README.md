@@ -1,4 +1,4 @@
-### Opa, beleza? Eu sou o Leonardo Gomes! 👋
+### Opa, beleza? Eu sou o Leonardo! 👋
 
 - 🔭 Atualmente sou estágiario fullstack na Clinia
 - 🌱 Cursando análise e desenvolvimento de sistemas na Estácio de Sá
