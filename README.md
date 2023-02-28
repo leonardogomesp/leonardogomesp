@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente sou estágiario fullstack na Clinia
 - 🌱 Cursando análise e desenvolvimento de sistemas na Estácio de Sá
-- 
+
 <div align="center">
   <a href="https://github.com/leonardogomesp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardogomesp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
