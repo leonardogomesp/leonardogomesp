@@ -2,10 +2,7 @@
 
 - 🔭 Atualmente sou estágiario fullstack na Clinia
 - 🌱 Cursando análise e desenvolvimento de sistemas na Estácio de Sá
-- 📫 Você pode me mandar um email aqui: leonardogomespadilha@gmail.com
-- 😄 Pronomes: Ele/Dele
-- 📁 Aqui está meu <a href = "https://drive.google.com/file/d/1bRFB0fI79885a2vI_5CqII0hN0XX8ZYF/view?usp=sharing">curriculo</a>
-
+- 
 <div align="center">
   <a href="https://github.com/leonardogomesp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardogomesp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
