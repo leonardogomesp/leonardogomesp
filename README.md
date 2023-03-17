@@ -1,6 +1,6 @@
 ### Opa, beleza? Eu sou o Leonardo! 👋
 
-- 🔭 Atualmente sou estágiario fullstack na Clinia
+- 🔭 Atualmente sou dev fullstack na Clinia
 - 🌱 Cursando análise e desenvolvimento de sistemas na Estácio de Sá
 
 <div align="center">
