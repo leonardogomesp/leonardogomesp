@@ -1,7 +1,6 @@
 ### Opa, beleza? Eu sou o Leonardo! 👋
 
-- 🔭 Atualmente sou dev fullstack na Clinia
-- 🌱 Cursando análise e desenvolvimento de sistemas na Estácio de Sá
+- 🔭 Dev fullstack na Clinia
 
 <div align="center">
   <a href="https://github.com/leonardogomesp">
