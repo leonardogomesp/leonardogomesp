@@ -1,6 +1,6 @@
 ### Opa, beleza? Eu sou o Leonardo! 👋
 
-- 🔭 Dev fullstack na Clinia
+- 🔭 Dev fullstack
 
 <div align="center">
   <a href="https://github.com/leonardogomesp">
